@@ -12,10 +12,16 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
       font-family: Arial, sans-serif;
       font-size: 16px;
       color: #545454;
+      background: #fff;
   }
 
   a:link, a:visited {
       color: #4285f4;
+      text-decoration: none;
+  }
+
+  ul {
+    list-style-type: none;
   }
 
   p {
